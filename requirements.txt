@@ -1,0 +1,7 @@
+opencv-contrib-python
+tensorflow-gpu==2.10.1
+numpy
+matplotlib
+python-socketio
+Flask
+eventlet
